@@ -47,4 +47,4 @@ Step Four: node liri.js do-what-it-says
 This will output the command placed in random.txt file
 
 Author
-Leeland Clenista
+Ben Williams

@@ -129,7 +129,7 @@ function runLiri() {
                 };
             });
 
-            console.log(spotify);
+            //console.log(spotify);
             spotify.search({
 
                 type: "track",
